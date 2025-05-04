@@ -1,0 +1,20 @@
+.window {
+  position: absolute;
+  width: 300px;
+  border: 2px solid #000;
+  background-color: #c0c0c0;
+  box-shadow: 2px 2px #808080;
+}
+
+.window-header {
+  display: flex;
+  justify-content: space-between;
+  background-color: #000080;
+  color: white;
+  padding: 5px;
+  font-family: 'MS Sans Serif', sans-serif;
+}
+
+.window-content {
+  padding: 10px;
+}

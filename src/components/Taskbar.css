@@ -1,0 +1,19 @@
+.taskbar {
+  display: flex;
+  align-items: center;
+  background-color: #c0c0c0;
+  height: 40px;
+  border-top: 2px solid #ffffff;
+  border-left: 2px solid #ffffff;
+  border-right: 2px solid #808080;
+  border-bottom: 2px solid #808080;
+}
+
+.start-button {
+  background-color: #c0c0c0;
+  border: 2px solid #808080;
+  padding: 5px 10px;
+  font-family: 'MS Sans Serif', sans-serif;
+  font-size: 14px;
+  cursor: pointer;
+}
